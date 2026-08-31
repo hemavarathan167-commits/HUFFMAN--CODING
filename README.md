@@ -1,7 +1,7 @@
 # Huffman-Coding
 
-NAME : HEMAVARATHAN S
-REG NO: 212225240050
+#NAME : HEMAVARATHAN S
+#REG NO: 212225240050
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
